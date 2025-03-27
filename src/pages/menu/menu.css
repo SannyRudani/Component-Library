@@ -1,0 +1,31 @@
+.menu-wrapper {
+  display: flex;
+  flex-direction: column;
+  /* column-gap: 10px; */
+  align-items: center;
+  justify-content: center;
+  width: 370px;
+  height: 326px;
+  top: 85px;
+  left: 104px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 6px;
+  border-width: 1px;
+}
+
+.menu-wrapper .seprator {
+  width: 340px;
+  border-width: 0.7px;
+  border: 0.7px solid #cdcdcd;
+}
+
+.menu-wrapper .footer-sec {
+  width: 370;
+  height: 60;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  gap: 10px;
+}

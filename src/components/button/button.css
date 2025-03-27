@@ -1,0 +1,22 @@
+.btn-wrapper .custom-btn {
+  width: 340px;
+  height: 40px;
+  background-color: #ffce22;
+  border: none;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  color: #1f2128;
+  font-family: "Montserrat" !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-wrapper .custom-btn:hover {
+  background-color: #ffd84d;
+}
+
+.btn-wrapper .custom-btn:active {
+  background-color: #ffce22;
+}

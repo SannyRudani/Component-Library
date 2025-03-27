@@ -1,0 +1,28 @@
+.custom-checkbox {
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 6px;
+  border: 1px solid #cdcdcd;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.check-hovered {
+  border: 1px solid #bdbdbd;
+}
+
+.variant2 {
+  background: #2469f6 !important;
+}
+
+.check-hovered-2 {
+  background: #5087f8 !important;
+}
+
+.checkmark {
+  height: 12px;
+  width: 17px;
+}
